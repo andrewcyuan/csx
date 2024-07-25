@@ -1,5 +1,5 @@
 # csx
-Split 65% Mechanical Keyboard. Easily 3D printable and assembled with common magnets. Works with the [Quefrency PCB]([url](https://keeb.io/products/quefrency-rev-5-pcbs-hotswap-65-65xt-split-staggered-keyboard)) from keebio.
+Split 65% Mechanical Keyboard. Easily 3D printable and assembled with common magnets. Uses leaf-spring o-ring bottom mount. Works with the [Quefrency PCB]([url](https://keeb.io/products/quefrency-rev-5-pcbs-hotswap-65-65xt-split-staggered-keyboard)) from keebio.
 
 ![image](https://github.com/user-attachments/assets/b175146c-f645-42b3-90a8-bfbcc8ffc6c1)
 
@@ -9,6 +9,7 @@ Here's the list of hardware parts (I've provided some sources, but these parts a
 - [Bar Magnets]([url](https://www.amazon.com/gp/product/B0B6VNMJP7))
 - [Dot Magnets]([url](https://www.amazon.com/gp/product/B09SKHYGLN)
 - [Rubber Dots]([url](https://www.amazon.com/gp/product/B06XCNM69B))
+- [O Rings]([url](https://www.amazon.com/gp/product/B07YJWT9W7))
 - Superglue (for permanently attaching magnets)
 - EC11 Knob
 - USB C to C cable
